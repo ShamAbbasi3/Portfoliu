@@ -1,0 +1,169 @@
+
+body{
+    text-align: center;
+}
+
+
+#title{
+    background-color: #ff4c68;
+    padding: 5% 12% 5%;
+
+    
+}
+
+.navbar{
+
+    margin-bottom: 60px;
+}
+
+#logo{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+.heading {
+
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+    line-height: 80px;
+    
+}
+
+.btn{
+    margin-top: 15%;
+    margin-right: 1%;
+    width: 30%;
+    
+}
+
+.nav-item{
+    padding: 0 18px;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.iphone{
+
+    transform: rotate(25deg);
+    width: 50%;
+    margin-bottom: 22px;
+    margin-left: 10px;
+    position:absolute;
+    right: 30%;
+}
+
+
+
+/* feautures */
+
+#features {
+
+   background-color: #fff;
+   
+   padding: 7% 15%;
+   font-family: 'Montserrat', sans-serif;
+   text-align: center;
+   position:relative;
+}
+
+.para{
+    font-weight: lighter;
+    width: 80%;
+    margin-left: 25px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgba(0, 0, 0, 0.397);
+}
+
+.logo{
+    margin: 5%;
+    
+}
+
+/* testimonial */
+
+#testimonials{
+
+    text-align: center;
+    padding: 7% 19% ;   
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    background-color: #ef8172;
+    color: #fff;
+}
+
+.head{
+    font-family: "Montserrat",sans-serif ; 
+    font-weight: bold;
+    font-size: 3.2rem;
+    line-height: 1.5;
+    font-weight:10;
+    text-align: center;
+}
+
+.round{
+    border-radius: 100%;
+    height: 250px;
+    margin: 20px;
+}
+
+
+/* press */
+
+#press{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ef8172;
+    
+}
+
+.pic{
+    width: 250px;
+    padding: 20px;
+}
+
+
+/* pricing */
+
+#pricing{
+    margin: 7% 15%  ;
+    text-align: center;
+    font-family: "Montserrat",sans-serif ; 
+}
+
+.marg{
+    margin-bottom: 10%;
+    font-family: "Montserrat",sans-serif ; 
+    font-size: 30px;
+}
+
+.p2{
+    margin-top: -8%;
+    margin-bottom: 10%;
+    font-weight: lighter;
+    color: gray;
+}
+
+.carousel-control-prev{
+    margin-left: -110;
+    
+}
+.carousel-control-next{
+    margin-right: -110;
+}
+
+#cta{
+    padding: 7% 15%;
+    text-align: center;
+    font-family: "Montserrat",sans-serif ; 
+    background-color: #ef8172;
+    color: #fff;
+}
+
+#footer{
+    font-family: "Montserrat",sans-serif ; 
+    padding: 7%;
+    text-align: center;
+    background-color: rgb(155, 167, 167);
+}

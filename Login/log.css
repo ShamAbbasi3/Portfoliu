@@ -1,0 +1,91 @@
+
+#sham{
+    padding-top: 30px;
+    width:  520px;
+    height: 520px;
+    margin-top: 10%;
+    margin-left: 288px;
+    border: 1px;
+    float: left;
+    background-color:rgb(216, 212, 212);
+
+    
+}
+
+#l {
+    
+    padding-bottom: 30px;
+    text-align: center;
+    color: #9400d3;
+    font-style: bold;
+    font-size: small;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 0.7px;
+
+    
+    
+}
+
+.image{
+     padding-top: 10px;
+     padding-bottom: 30px;
+    text-align: center;
+    color: blueviolet;
+}
+
+p{
+    padding-top: 5px;
+    text-align: center;
+}
+
+.log{
+    
+    text-align: center;
+}
+#m , #v{
+    border: 0px;
+    background-color: rgb(204, 201, 201);
+    height: 45px;
+    width: 335px;
+    padding-left: 10px;
+    
+}
+
+#user{
+    padding-top: 20px;
+    color: blueviolet;
+} 
+
+
+.title{
+    background-color: #9400d3;
+    color: aliceblue;
+    margin-top: 10%;
+    margin-left: 785px;
+    width: 520px;
+    height: 520px;
+    padding-top: 180px;
+    padding-right: 20px;
+    padding-left: 20px;
+    float: right;
+    position: absolute;
+    
+
+}
+#head{
+    padding-left: 127px;
+    padding-top: 5px;
+    padding-bottom: 0px;
+    color: azure;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    word-spacing: normal;
+
+}
+
+#b{
+    background-color: #9400d3;
+    border-radius: 50px;
+    width: 100px;
+    border: 0px;
+}
