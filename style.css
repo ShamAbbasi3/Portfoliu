@@ -4,7 +4,7 @@ body{
     font-family: 'Merriweather', serif;
 }
 
-
+@media only screen and (min-width:568px){
 
 span{
     text-decoration: underline;
@@ -174,4 +174,5 @@ hr{
 .intro{
     width: 30%;
     margin:auto ;
+}
 }
